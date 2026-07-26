@@ -204,6 +204,3 @@ Deposit Withdraw   Fast Cash
 
 ---
 
-## 📄 License
-
-This project is developed for educational and learning purposes.
